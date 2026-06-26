@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
