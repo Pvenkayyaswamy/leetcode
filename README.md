@@ -11,11 +11,13 @@
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0069-sqrtx) |
+| [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +73,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
