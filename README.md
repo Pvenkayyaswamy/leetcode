@@ -14,6 +14,7 @@
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -84,4 +86,5 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
