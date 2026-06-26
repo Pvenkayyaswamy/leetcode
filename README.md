@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0007-reverse-integer](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
