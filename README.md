@@ -19,12 +19,14 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
