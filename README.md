@@ -40,6 +40,7 @@
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
