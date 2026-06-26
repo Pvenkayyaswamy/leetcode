@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
