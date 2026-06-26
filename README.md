@@ -38,6 +38,7 @@
 | [0029-divide-two-integers](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
