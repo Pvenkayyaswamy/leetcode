@@ -15,6 +15,7 @@
 | [1920-build-array-from-permutation](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0058-length-of-last-word](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
