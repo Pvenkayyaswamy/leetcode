@@ -17,6 +17,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
