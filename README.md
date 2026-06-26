@@ -57,6 +57,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
