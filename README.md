@@ -21,6 +21,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,12 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
