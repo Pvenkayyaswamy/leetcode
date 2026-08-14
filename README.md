@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3668-restore-finishing-order) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
