@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0695-max-area-of-island](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0695-max-area-of-island) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +129,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0695-max-area-of-island) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -137,4 +139,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
