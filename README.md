@@ -33,6 +33,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -77,6 +78,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0029-divide-two-integers) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Pvenkayyaswamy/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pvenkayyaswamy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
