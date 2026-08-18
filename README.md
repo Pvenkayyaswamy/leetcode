@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0771-jewels-and-stones) |
@@ -95,6 +97,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pvenkayyaswamy/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Pvenkayyaswamy/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
